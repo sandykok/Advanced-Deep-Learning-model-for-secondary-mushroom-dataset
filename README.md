@@ -1,4 +1,4 @@
-# Advanced-Deep-Learning-model-for-secondary-mushroom-dataset
+# MUSHROOM EDIBILITY PREDICTION
 
 
 Dataset: https://archive.ics.uci.edu/dataset/848/secondary+mushroom+dataset
